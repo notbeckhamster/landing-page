@@ -1,5 +1,6 @@
 # landing-page
-
+https://notbeckhamster.github.io/landing-page/
+Part of The Odin Project foundations course for the flex box part.
 # Licnesing 
 * hamster-wheel.png 
 by mc murry julie https://pixabay.com/users/mcmurryjulie-2375405/
